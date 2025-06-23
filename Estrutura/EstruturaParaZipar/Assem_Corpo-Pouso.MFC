@@ -1,0 +1,16 @@
+[StartTime]
+Assem_Corpo-Pouso.MFC=1m:35s
+[SolverState]
+Assem_Corpo-Pouso.MFC=2
+[MainFrame]
+Assem_Corpo-Pouso.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMMBAAAAAPPAAAAAAEDDAAAAACNBAAAAA
+[ShowMin]
+Assem_Corpo-Pouso.MFC=No
+[SolverType]
+Assem_Corpo-Pouso.MFC=Linear Analysis
+[StudyType]
+Assem_Corpo-Pouso.MFC=0
+[StudyName]
+Assem_Corpo-Pouso.MFC=Pouso
+[Solver]
+Assem_Corpo-Pouso.MFC=Iterative
